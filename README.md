@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+
 MLH LHD
 
 Contributors
